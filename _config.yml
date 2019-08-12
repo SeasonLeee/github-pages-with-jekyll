@@ -1,13 +1,24 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+theme: jekyll-theme-minimal
+title: Benjamin's awesome title
+author: Benjamin
+email: jijileeeeeee@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  # Write an awesome description for your new site here. You can edit this
+  # line in _config.yml. It will appear in your document head meta (for
+  # Google search results) and in your feed.xml site description.
+  Benjamin's personal blog.
+  I'm gonna write about prgramming relate topic, such as,
+  JavaScript (some with personal thoughts on it's quirk or beauty)
+  HTML (some cool element and pertinent tutorial or how-to or my how-to based on other's how-to)
+  CSS (also some cool effect's implements and other stuff)
+  WEB or Web (basically what I'm do for living, will have thoughts, my understandings, or let's what will be there...)
+  Flutter (What I played with, recently. There are so many I want to talk about. Other than the how to on official site)
+  Vue.js (What I used to work with. How Vue.js works. I think that's what I'm going to talk about)
+  React.js (I will just go to mark my path of learning this hot stuff)
+  And so many others...
 
 # social links
-twitter_username: your-twitter-handle
-github_username:  your-github-handle
+twitter_username: @JiJiLeeeeeee
+github_username:  @Seasonleee
 
 show_excerpts: true # set to false to remove excerpts on the homepage
