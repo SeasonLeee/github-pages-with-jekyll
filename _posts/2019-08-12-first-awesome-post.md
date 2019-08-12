@@ -1,6 +1,5 @@
 ---
-layout: post
-title: My life sucks and I'm gonna love it
+title: "My life sucks and I'm gonna love it"
 date: 2019-08-12
 ---
 
